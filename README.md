@@ -4,7 +4,7 @@ A passionate front-end student
 
 🌱 I’m currently learning: Javascript
 
-📫 How to reach me: andredelotero@gmail.com
+📫 How to reach me: eniortiz17@gmail.com
 
 
 <!---
